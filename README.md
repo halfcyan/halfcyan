@@ -6,6 +6,8 @@ i use it/its pronouns generally, but i'm a girl (don't read too far into it)
 
 i live in the denver area. i attend the colorado school of mines where i'm studying electrical engineering. i focus on integrated circuits and electronics and plan to get a master's in physics on semiconductor materials science.
 
+i'm literally just a fox btw.
+
 # my projects rn
 
 - [tetra](https://github.com/fyralabs/tetra), the backend for Ultramarine Server
