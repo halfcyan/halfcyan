@@ -10,7 +10,7 @@ i'm literally just a fox btw.
 
 # my projects rn
 
-- [tetra](https://github.com/fyralabs/tetra), the backend for Ultramarine Server
+- [tetra](https://github.com/Ultramarine-Linux/tetra), the backend for Ultramarine Server
 - [odorobo](https://github.com/fyrastack/odorobo), the backend for Fyra Stack
 - [terra](https://github.com/terrapkg/packages), the rolling fedora repository you didn't know you needed
 - documentation for fyra, primarily for stack
